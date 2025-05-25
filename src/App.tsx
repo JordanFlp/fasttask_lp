@@ -8,7 +8,7 @@ import Footer from './components/layout/Footer';
 function App() {
   return (
     <>
-      <Router basename='/fasttask'>
+      <Router basename='/fasttask_lp'>
         <Header />
         <main>
           <Routes>
